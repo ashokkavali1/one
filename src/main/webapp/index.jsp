@@ -1154,7 +1154,7 @@
                     <button class="icon-btn" title="Account" aria-label="Account"><i class="far fa-user"></i></button>
                     <button class="icon-btn" title="Wishlist" aria-label="Wishlist"><i class="far fa-heart"></i></button>
                     <div class="cart-wrap">
-                        <button class="icon-btn" id="cartBtn" title="Cart" aria-label="Cart">
+                        <button class="icon-btn" id="cartBtn" title="cart1" aria-label="Cart1">
                             <i class="fas fa-shopping-bag"></i>
                         </button>
                         <span class="cart-count" id="cartCount">0</span>
