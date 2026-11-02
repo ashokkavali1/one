@@ -1309,7 +1309,7 @@
                         <i class="fas fa-store-alt"></i>
                         <span>Nexus<span class="accent">Shop</span></span>
                     </div>
-                    <p>Modern e‑commerce demo build with care. Quality products, seamless experience.</p>
+                    <p>Modern e‑commerce demo built with care. Quality products, seamless experience.</p>
                     <div class="socials">
                         <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
                         <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
